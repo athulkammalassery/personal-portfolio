@@ -670,7 +670,8 @@ font-weight: 500;
         
     }
     .footer{
-        height: 230px;
+        /* height: 230px; */
+        height: 250px;
     
     }
 
